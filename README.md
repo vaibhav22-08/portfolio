@@ -1,2 +1,2 @@
 # portfolio
-www.vaibhav22-08.github.io/portfolio
+https://vaibhav22-08.github.io/portfolio/
