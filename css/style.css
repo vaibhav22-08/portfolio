@@ -24,9 +24,9 @@ html{
 }
 body {
   font-family: "Poppins",sans-serif;
-	background: linear-gradient(-45deg, #e4baad, #c6cca2, #bfdfeb, #cdbfe7);
+	background: linear-gradient(-45deg, #d0ade4, #a08aee, #90b9ee, #bfe7e2);
   background-repeat: no-repeat;
-	background-size: 200%;
+	background-size: 600%;
   background-attachment: fixed;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
@@ -102,7 +102,7 @@ color: var(--main-black);
   height:100vh;
 }
 .card{
-  padding: 60px;
+  padding: 3em 2em;
   border: 1px solid #ffffff41;
   border-radius: 20px;
   background: linear-gradient(256.72deg, rgba(180, 124, 86, 0.078) 8.42%, rgba(195, 219, 139, 0.152) 80.85%);
@@ -111,7 +111,7 @@ color: var(--main-black);
   transform: perspective(1000px);
 }
 .card-contents{
-  transform: translateZ(40px);
+  transform: translateZ(60px);
 }
 .js-tilt-glare{
   border-radius: 20px;
@@ -121,7 +121,7 @@ h1{
   font-family: Poppins;
 font-style: normal;
 font-weight: bold;
-font-size: 4.8rem;
+font-size: 4.6rem;
 line-height:1.2em;
 text-align: center;
 color: var(--main-black);
